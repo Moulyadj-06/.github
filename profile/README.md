@@ -5,15 +5,15 @@
 **Welcome to the Kristu Jayanti Google Developer Student Clubs (KJGDSC) community! We're delighted to have you here. This readme file will provide you with essential information about our community and the teams that make it thrive.**
 
 # Table of Contents
-* [About KJGDSC](#About)
-* [Teams](#Teams)
-    * [DSA](#DSA-Team)
-    * [BackEnd](#BackEnd-Team)
-    * [AppDev](#AppDev-Team)
-    * [WebDev](#WebDev-Team)
-    * [AI/ML](#AI/ML-Team)
-    * [Media](#Media-Team)
-    * [Design](#Design-Team)
+- [About KJGDSC](#About)
+- [Teams](#Teams)
+    - [DSA](#DSA-Team)
+    - [BackEnd](#BackEnd-Team)
+    - [AppDev](#AppDev-Team)
+    - [WebDev](#WebDev-Team)
+    - [AI/ML](#AI/ML-Team)
+    - [Media](#Media-Team)
+    - [Design](#Design-Team)
 
 
 
