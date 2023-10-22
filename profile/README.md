@@ -2,7 +2,13 @@
 
 ![GDSC Kristu Jayanti College](https://github.com/KJC-GDSC/KGUB/assets/85097731/5592c432-e39a-4a03-8b0b-6c8d4d4888cc)
 
-**Welcome to the Kristu Jayanti Google Developer Student Clubs (KJGDSC) community! We're delighted to have you here. This readme file will provide you with essential information about our community and the teams that make it thrive.**
+## Introduction
+
+Welcome to the official GitHub repository of KJC GDSC, the Google Developer Student Clubs at Kristu Jayanti College [Autonomous]. We are a dynamic community of tech enthusiasts, students, and innovators who are dedicated to making a positive impact on both our college and society through technology.
+
+## About Us
+
+KJC GDSC is more than just a club; it's a hub of creativity, collaboration, and innovation. We're delighted to have you here. This readme file will provide you with essential information about our community and the teams that make it thrive.
 
 # Table of Contents
 - [About KJGDSC](#About)
@@ -14,13 +20,6 @@
     - [AI/ML](#AI/ML-Team)
     - [Media](#Media-Team)
     - [Design](#Design-Team)
-
-
-
-# About
-
-Welcome to the **Kristu Jayanti Google Developer Student Clubs** (KJGDSC) community at **Kristu Jayanti College**! We're delighted to have you here. This readme file will provide you with essential information about our community and the teams that make it thrive.
-
 
 # Teams
 - ### DSA Team
@@ -43,3 +42,41 @@ Welcome to the **Kristu Jayanti Google Developer Student Clubs** (KJGDSC) commun
 
 - ### Design Team
     It is a collective of creative minds dedicated to crafting visually stunning and user-centric experiences. Led by our talented lead designer, we specialize in graphic design, user interface, and user experience design.
+
+## What We Do
+At KJC GDSC, we engage in a wide range of activities that reflect our commitment to tech-driven transformation. Here's a glimpse of what we're all about:
+
+- **Open Source Contributions**: Our talented team members actively contribute to open source projects, helping to shape the future of technology.
+
+- **Tech Workshops and Seminars**: We organize workshops and seminars to empower students with knowledge about the latest technologies and industry best practices.
+
+- **Hackathons and Coding Challenges**: We host exciting coding competitions and hackathons that foster innovation and creativity among our members.
+
+## Our Mission
+
+Our mission is to empower students with the knowledge, tools, and resources to become skilled developers and technology enthusiasts. We aim to create a vibrant community that not only excels academically but also actively contributes to the betterment of society.
+
+## Join Our Journey
+We're always on the lookout for like-minded individuals who share our passion for tech, innovation, and community service. Whether you're an experienced coder or just starting your tech journey, there's a place for you here at KJC GDSC. Join our mission to make a difference through technology!
+
+## Connect With Us
+
+- Website: [website](https://developers.google.com/community/gdsc)
+- LinkedIn: [KJC GDSC](https://www.linkedin.com/search/results/all/?keywords=kjgdsc&origin=GLOBAL_SEARCH_HEADER&sid=cIz)
+- Instagram: [Follow us](https://www.instagram.com/gdsc.kjc/?igshid=MzRlODBiNWFlZA%3D%3D)
+
+## Get Involved
+
+If you'd like to contribute to our projects, collaborate with our members, or have ideas for initiatives that align with our mission, feel free to reach out to us. You can also check out our [project repository](https://github.com/KJC-GDSC) to see what we're currently working on.
+
+## Our Commitment
+
+KJC GDSC is a student-driven initiative, created by the students, for the betterment of society and our college. We are committed to making a meaningful impact through technology, and we invite you to be a part of this exciting journey.
+
+## Let's Build the Future Together
+
+Our journey at KJC GDSC is an ever-evolving tech odyssey. We invite you to explore our GitHub repositories, contribute, and become a part of our story. Together, we'll continue to code for good, learn together, and innovate for a better tomorrow.
+
+---
+
+Keep coding, keep innovating!
